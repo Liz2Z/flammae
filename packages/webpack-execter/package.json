@@ -1,0 +1,36 @@
+{
+    "name": "@flammae/webpack-execter",
+    "version": "0.0.9",
+    "private": false,
+    "description": "a tool, used for execute webpack",
+    "keywords": [
+        "webpack",
+        "exec",
+        "cli",
+        "execte",
+        "flammae"
+    ],
+    "author": "L.S <fitz-i@foxmail.com>",
+    "license": "MIT",
+    "scripts": {},
+    "main": "src/index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/flammae/webpack-execter.git"
+    },
+    "bugs": {
+        "url": "https://github.com/flammae/webpack-execter/issues"
+    },
+    "homepage": "https://github.com/flammae/webpack-execter#readme",
+    "engines": {
+        "node": ">10.0"
+    },
+    "dependencies": {
+        "address": "^1.1.0",
+        "chalk": "^2.4.2",
+        "commander": "^2.20.0",
+        "fs-extra": "^8.0.1",
+        "webpack": "^4.35.0",
+        "webpack-dev-server": "^3.7.2"
+    }
+}

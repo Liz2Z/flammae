@@ -1,0 +1,17 @@
+# 忽略编辑器创建的文件
+.vscode
+
+# 忽略node_modules
+node_modules
+
+# 忽略日志文件
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+package-lock.json
+
+
+# 忽略打包后的文件
+build
+dist

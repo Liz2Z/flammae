@@ -1,0 +1,26 @@
+{
+    "name": "@flammae/fs-map",
+    "version": "0.0.3",
+    "description": "file system map",
+    "main": "src/index.js",
+    "keywords": [
+        "file",
+        "system",
+        "map"
+    ],
+    "author": "L.S <fitz-i@foxmail.com>",
+    "license": "MIT",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/flammae/fs-map.git"
+    },
+    "bugs": {
+        "url": "https://github.com/flammae/fs-map/issues"
+    },
+    "homepage": "https://github.com/flammae/fs-map#readme",
+    "dependencies": {
+        "@flammae/helpers": "^0.0.2",
+        "minimatch": "^3.0.4"
+    }
+}

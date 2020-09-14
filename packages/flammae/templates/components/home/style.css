@@ -1,0 +1,32 @@
+body{
+    margin:0;
+    padding:0;
+    /* overflow: hidden; */
+}
+.jumbotron{
+    height:96vh;
+    width: 96vw;
+    margin: 2vh auto;
+    border-radius: .3rem;
+    background-color: #e9ecef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dir-emtpy-tip{
+    font-size: 20px;
+}
+._yellow{
+    color:#FF9800;
+}
+
+.route-link{
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 4px;
+    color: #4078f2 !important;
+    background:#f1f1f1;
+    margin: 10px;
+
+}

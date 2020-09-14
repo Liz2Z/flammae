@@ -1,0 +1,21 @@
+{
+    "name": "replace",
+    "version": "0.0.1",
+    "private": false,
+    "description": "",
+    "keywords": [],
+    "author": "L.S <fitz-i@foxmail.com>",
+    "license": "MIT",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/flammae/replace.git"
+    },
+    "bugs": {
+        "url": "https://github.com/flammae/replace/issues"
+    },
+    "homepage": "https://github.com/flammae/replace#readme",
+    "engines": {
+        "node": ">10.0"
+    }
+}

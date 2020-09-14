@@ -1,0 +1,31 @@
+{
+    "name": "@flammae/markdown-plugin-jsx",
+    "version": "0.0.3",
+    "description": "a plugin used by @flammae/markdown-loader",
+    "keywords": [
+        "jsx",
+        "plugin",
+        "flammae"
+    ],
+    "author": "L.S <fitz-i@foxmail.com>",
+    "license": "MIT",
+    "scripts": {},
+    "main": "index.js",
+    "files": [
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/flammae/jsx-plugin.git"
+    },
+    "bugs": {
+        "url": "https://github.com/flammae/jsx-plugin/issues"
+    },
+    "homepage": "https://github.com/flammae/jsx-plugin#readme",
+    "dependencies": {
+        "@babel/core": "^7.5.4",
+        "@babel/plugin-transform-runtime": "^7.5.0",
+        "@babel/preset-env": "^7.5.4",
+        "@babel/preset-react": "^7.0.0"
+    }
+}

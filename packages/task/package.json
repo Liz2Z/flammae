@@ -1,0 +1,22 @@
+{
+    "name": "@flammae/task",
+    "version": "0.2.1",
+    "private": false,
+    "description": "A Nodejs library that allows you to create tasks in your code",
+    "keywords": [],
+    "author": "L.S <fitz-i@foxmail.com>",
+    "license": "MIT",
+    "scripts": {},
+    "main": "src/index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/flammae/task.git"
+    },
+    "bugs": {
+        "url": "https://github.com/flammae/task/issues"
+    },
+    "homepage": "https://github.com/flammae/task#readme",
+    "engines": {
+        "node": ">10.0"
+    }
+}

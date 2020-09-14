@@ -1,0 +1,25 @@
+{
+    "name": "@flammae/fs-enhance",
+    "version": "0.1.0",
+    "private": false,
+    "description": "",
+    "keywords": [],
+    "author": "L.S <fitz-i@foxmail.com>",
+    "license": "MIT",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/flammae/fsEnhance.git"
+    },
+    "bugs": {
+        "url": "https://github.com/flammae/fsEnhance/issues"
+    },
+    "homepage": "https://github.com/flammae/fsEnhance#readme",
+    "engines": {
+        "node": ">10.0"
+    },
+    "dependencies": {
+        "@flammae/fs-map": "^0.0.3",
+        "minimatch": "^3.0.4"
+    }
+}

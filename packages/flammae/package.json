@@ -1,0 +1,77 @@
+{
+    "name": "flammae",
+    "version": "2.2.5",
+    "keywords": [
+        "react",
+        "markdown",
+        "site",
+        "static",
+        "flammae"
+    ],
+    "description": "基于React的静态网页创建工具(markdown)",
+    "author": "L.S <fitz-i@foxmail.com>",
+    "license": "MIT",
+    "bin": {
+        "flammae": "bin/index.js"
+    },
+    "scripts": {},
+    "homepage": "https://github.com/flammae/flammae#readme",
+    "bugs": {
+        "url": "https://github.com/flammae/flammae/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/flammae/flammae.git"
+    },
+    "engines": {
+        "node": ">10.0"
+    },
+    "dependencies": {
+        "@babel/core": "^7.5.4",
+        "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+        "@flammae/fs-enhance": "^0.1.0",
+        "@flammae/fs-map": "^0.0.3",
+        "@flammae/helpers": "^0.0.3",
+        "@flammae/markdown-loader": "0.0.1",
+        "@flammae/task": "^0.2.1",
+        "@flammae/tpl-engine": "^0.0.3",
+        "@flammae/webpack-execter": "0.0.9",
+        "babel-loader": "^8.0.6",
+        "babel-preset-react-app": "^9.0.0",
+        "chalk": "2.4.2",
+        "commander": "^2.19.0",
+        "cross-spawn": "^6.0.5",
+        "css-loader": "^3.0.0",
+        "eslint": "5.14.1",
+        "eslint-loader": "^2.2.1",
+        "file-loader": "^4.0.0",
+        "fs-extra": "^8.1.0",
+        "highlight.js": "^9.15.8",
+        "html-webpack-plugin": "^3.2.0",
+        "inquirer": "^6.4.1",
+        "less": "^3.9.0",
+        "less-loader": "^5.0.0",
+        "marked": "^0.7.0",
+        "memoize-one": "^5.0.5",
+        "merge": "^1.2.1",
+        "mini-css-extract-plugin": "^0.7.0",
+        "optimize-css-assets-webpack-plugin": "^5.0.3",
+        "path-to-regexp": "^1.7.0",
+        "postcss-flexbugs-fixes": "^4.1.0",
+        "postcss-loader": "^3.0.0",
+        "postcss-preset-env": "^6.7.0",
+        "postcss-safe-parser": "^4.0.1",
+        "prop-types": "^15.7.2",
+        "px2rem-loader": "^0.1.9",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6",
+        "react-is": "^16.8.6",
+        "react-router-dom": "^5.0.1",
+        "style-loader": "^0.23.1",
+        "terser-webpack-plugin": "^1.3.0",
+        "url-loader": "^2.0.1",
+        "webpack": "^4.35.3",
+        "webpack-bundle-analyzer": "^3.3.2",
+        "webpack-merge": "^4.2.1"
+    }
+}
